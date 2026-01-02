@@ -1,2 +1,3 @@
 # walks
-walks with animals - prod
+walks with animals
+/docs is the root accessible by all
